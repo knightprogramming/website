@@ -7,7 +7,10 @@ class App extends Component {
     return (
       <div className="App">
         <header>
-          <h1 className="title">Knight Programming</h1>
+        <ReactSVG
+          path="kplogo.svg"
+          className="logo"
+        />
         </header>
         <ReactSVG
           path="knight_fail.svg"

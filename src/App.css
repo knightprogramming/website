@@ -13,6 +13,10 @@ body {
   fill: #586c79a8;
 }
 
+.logo {
+  margin: auto;
+}
+
 header {
   margin: 0 0 2em 0;
   padding:1em;
@@ -22,7 +26,7 @@ header {
 
 h1 {
   font-size: 4.2em;
-  color: rgb(212, 223, 233);
+  color: #d4dfe9;
 }
 
 h3 {

@@ -1,0 +1,36 @@
+body {
+  background-color:	#5c71862a; 
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.knight_fail {
+  width: 66vw;
+  margin-left: 16vw;
+}
+
+.knight_fail g{
+  stroke: #586c7998;
+  fill: #586c79a8;
+}
+
+header {
+  margin: 0 0 2em 0;
+  padding:1em;
+  text-align: center;
+  background-color: #465555;
+}
+
+h1 {
+  font-size: 4.2em;
+  color: rgb(212, 223, 233);
+}
+
+h3 {
+  font-size: 2em;
+  color:  #232d33;
+  text-align: center;
+}
+
+.silly {
+  margin: 0 10vw;
+}
